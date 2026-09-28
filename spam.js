@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, REST, Routes, PermissionsBitField, ChannelType, AttachmentBuilder } = require('discord.js');
 
 // --- AYARLAR ---
-const TOKEN = "MTU1MzM0NTM0NDc1NzMwMTMyOA.GkSb9Z.LKdIbRCGJgORNcG8_jSbmZR5nVlcmB0SvNmfwU";
+const TOKEN = "";
 const CLIENT_ID = "1553345344757301328";
 const ANA_LOG_KANAL_ID = "1553345029576335390";
 
